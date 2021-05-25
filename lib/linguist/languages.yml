@@ -599,6 +599,7 @@ Brightscript:
   type: programming
   extensions:
   - ".brs"
+  - ".bs"
   tm_scope: source.brightscript
   ace_mode: text
   language_id: 39
